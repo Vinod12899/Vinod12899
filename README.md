@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinod12899
+- 👋 Hi, I’m Vinod Meena
 - 👀 I’m interested in data structure and algorithims and solving new problems.
 - 🌱 I’m currently learning web developement and software developement
 - 💞️ I’m looking to collaborate on ...
